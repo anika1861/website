@@ -1,0 +1,431 @@
+# Alexander Anikin, MD: full text of https://alexander-anikin.eu
+
+Every page of the site as Markdown, generated 2026-10-29. See https://alexander-anikin.eu/llms.txt for a short summary.
+
+---
+
+<!-- https://alexander-anikin.eu/ -->
+
+# Alexander Anikin
+
+MD, PMP
+
+I trained as a psychiatrist and have spent 14 years in clinical research, from monitoring sites to leading global trials, for sponsors and for CROs. I read a protocol the way investigators and patients will live it, and I run the project behind it with the budget and the data in view.
+
+Based in Düsseldorf and open to new roles.
+
+[Download CV (PDF)](https://alexander-anikin.eu/cv/alexander-anikin-cv.pdf)
+[LinkedIn profile](https://www.linkedin.com/in/alxanikin/)
+
+[hi@alexander-anikin.eu](mailto:hi@alexander-anikin.eu)
+
+## Trials by indication and phase
+
+- Wilson disease (liver and metabolic disease): Phase I at IQVIA (CRO); Phase III at Alexion (sponsor)
+- Hepatic encephalopathy (liver and metabolic disease): Phase II at Quintiles (CRO)
+- Schizophrenia (neuroscience and psychiatry): Phase III at Quintiles (CRO) and IQVIA (CRO)
+- Bipolar disorder (neuroscience and psychiatry): Phase III at Quintiles (CRO)
+- Narcolepsy (neuroscience and psychiatry): Phase III at IQVIA (CRO)
+- Alzheimer’s disease (neuroscience and psychiatry): Phase I at IQVIA (CRO); Phase III at Quintiles (CRO)
+- Parkinson’s disease (neuroscience and psychiatry): Phase III at Quintiles (CRO)
+- Stroke (neuroscience and psychiatry): Phase III at Smooth Drug Development (CRO)
+- Systemic lupus erythematosus, CAR-T (immunology and inflammation): Phase II at Miltenyi Biomedicine (sponsor)
+- Rheumatoid arthritis (immunology and inflammation): Phase III at Quintiles (CRO); Phase IV at AbbVie (sponsor)
+- Plaque psoriasis (immunology and inflammation): Phase IV at AbbVie (sponsor)
+- Ulcerative colitis (immunology and inflammation): Phase III at Quintiles (CRO)
+- Crohn’s disease (immunology and inflammation): Phase III at Quintiles (CRO)
+- Paroxysmal nocturnal haemoglobinuria (PNH) (haematology and oncology): Phase III at Alexion (sponsor)
+- Prostate cancer (haematology and oncology): Phase III at Quintiles (CRO)
+- Small cell lung cancer (haematology and oncology): Phase III at Quintiles (CRO)
+- HIV (infectious disease): Phase IV at AbbVie (sponsor)
+
+Phase IV includes non-interventional and registry studies. Quintiles entries are trials visited as a CRA.
+
+## Case studies
+
+[All case studies](https://alexander-anikin.eu/case-studies.html)
+
+- ### [Moving site files out of a war zone](https://alexander-anikin.eu/case-studies.html#war-zone)
+
+  Every original investigator site file in Ukraine secured with zero data loss, after sponsor approval within 24 hours.
+
+  IQVIA, 2022
+- ### [Catching an 18% overrun early](https://alexander-anikin.eu/case-studies.html#overrun)
+
+  Haemolysed samples were distorting safety labs and quietly inflating lab costs. Fixing sample handling saved the data and the budget.
+
+  IQVIA
+- ### [First patient in, 3,000 km away](https://alexander-anikin.eu/case-studies.html#first-patient)
+
+  One eligible diagnostic facility in the country, thousands of kilometres from the site. Our country enrolled the study’s first patient worldwide.
+
+  Alexion
+
+## Writing and speaking
+
+[All writing and talks](https://alexander-anikin.eu/writing.html)
+
+- [MadPharma](https://www.madpharma.de/)
+
+  Long-form analyses of drug-safety failures and the regulatory lessons they left behind.
+- [Research on human–AI decisions](https://alexander-anikin.eu/writing.html#research)
+
+  Two SSRN preprints on how people and AI systems decide together, and how much error we forgive each of them.
+- [Global Clinical Trial Supply Forum 2026](https://alexander-anikin.eu/writing.html#speaking)
+
+  Chair and speaker in Frankfurt, on the market pressures behind cost-effective, scalable trial operations.
+
+## Get in touch
+
+[hi@alexander-anikin.eu](mailto:hi@alexander-anikin.eu)
+
+- [LinkedIn](https://www.linkedin.com/in/alxanikin/)
+- [+49 174 494 04 04](tel:+491744940404)
+
+---
+
+<!-- https://alexander-anikin.eu/about.html -->
+
+# About
+
+![Portrait of Alexander Anikin](assets/portrait.jpg)
+
+I studied medicine at Sechenov University in Moscow, trained as a psychiatrist at the Moscow Research Institute of Psychiatry, and went straight from residency into clinical research. I started at Quintiles as a clinical research associate, visiting sites in psychiatry, neurology, gastroenterology, hepatology, immunology and oncology trials. Since then I have worked on both sides of drug development: as a sponsor at AbbVie, Alexion and Miltenyi Biomedicine, and at the CROs IQVIA and Smooth Drug Development.
+
+Medicine taught me to read a protocol the way investigators and patients will live it. Project management taught me to turn it into a plan with owners, budgets and early warnings. My best work happens where the two meet: tracing distorted safety labs back to how samples were handled before they cost a study its data and its budget, or rebuilding a patient’s journey so a rare disease study can enrol.
+
+I hold PMP and PRINCE2 Agile certifications and I am completing a part-time Pharma MBA at Goethe Business School in Frankfurt. Outside my day job I write [MadPharma](https://www.madpharma.de/), about the drug-safety failures behind today’s regulations, and I study how people and AI systems make decisions together.
+
+I live in Düsseldorf and I am open to new roles in clinical development and medical leadership.
+
+## How I work
+
+Clinical judgement in the protocol
+:   Eligibility, protocol burden, diagnostic pathways and lab-data integrity: the levers behind screen-failure rates and data quality.
+
+Running global trials
+:   I lead the operational, financial and data side of multi-country trials, from start-up to database lock.
+
+Quality and regulation
+:   Risk-based quality management under ICH E6(R3) and E8(R1), submissions under the EU Clinical Trials Regulation in CTIS, inspection-ready trial master files.
+
+Sponsors, CROs and vendors
+:   I have been the CRO’s lead for the sponsor and the sponsor overseeing the CRO, and I negotiate contracts and budgets from both seats.
+
+Early warnings
+:   I build forecasts and dashboards that show a problem while it is still cheap to fix.
+
+## Education and credentials
+
+Medicine
+:   MD, Sechenov Moscow Medical University (2004–2010). Clinical residency in psychiatry, Moscow Research Institute of Psychiatry (2010–2012).
+
+Business
+:   Pharma MBA (in progress), Goethe Business School, Goethe University Frankfurt (2025–2027)
+
+Project management
+:   Project Management Professional (PMP), PRINCE2 Agile Practitioner
+
+Clinical research
+:   Design and Interpretation of Clinical Trials
+
+Data
+:   Google Data Analytics Professional Certificate, data analytics in R, Tableau
+
+Languages
+:   English (full professional), Russian (native), German (B1, Goethe-Zertifikat)
+
+## Get in touch
+
+[hi@alexander-anikin.eu](mailto:hi@alexander-anikin.eu)
+
+- [LinkedIn](https://www.linkedin.com/in/alxanikin/)
+- [+49 174 494 04 04](tel:+491744940404)
+
+---
+
+<!-- https://alexander-anikin.eu/experience.html -->
+
+# Experience
+
+Fourteen years in clinical research, at sponsors and at CROs. Most recent first.
+
+1. Feb 2026 – present
+
+   ## Clinical Trial Manager
+
+   Miltenyi Biomedicine, cell and gene therapy
+
+   **Indications:** systemic lupus erythematosus, CAR-T (Phase II)
+
+   - Operational and budget lead for complex CAR-T (ATMP) clinical trials. I lead and mentor the cross-functional study team.
+   - Led the GenAI programme design for Global Clinical Research (27 staff), from platform consolidation to staged Copilot enablement.
+2. Jun 2021 – Jan 2026
+
+   ## Clinical Trial Lead
+
+   IQVIA, contract research organisation
+
+   **Indications:** Wilson disease (Phase I), schizophrenia (Phase III), narcolepsy (Phase III), Alzheimer’s disease (Phase I)
+
+   - Identified a caffeine restriction as a critical protocol barrier. Operational and cultural risk data led the medical team to remove it, which secured a top-enrolling site.
+   - Traced excess haemolysed central-lab samples to pre-analytical handling (centrifugation and transit temperature), an artefact that distorts safety labs such as potassium and AST. The fix restored data quality and averted a projected 18% budget overrun.
+   - Led a team on high-risk requests for information under the EU Clinical Trials Regulation from France and Spain. A cross-country consistency matrix kept every response on time and aligned, and the study was approved.
+   - Prepared the team for a sponsor audit that closed in three days with no major or minor findings.
+   - When the war in Ukraine broke out, secured sponsor approval within 24 hours and moved all original investigator site files from Kyiv to Poland with zero data loss.
+3. Feb 2020 – May 2021
+
+   ## CRO Oversight Lead
+
+   Alexion Pharmaceuticals, rare disease
+
+   **Indications:** Wilson disease, a metabolic liver disease (Phase III); paroxysmal nocturnal haemoglobinuria (Phase III)
+
+   - Resolved a study-critical gap by securing the only eligible diagnostic facility in the country and leading logistics and contracts for 3,000 km of patient travel. Our country enrolled the first patient of the global study.
+   - Introduced a weekly TMF scorecard and accountability calls that raised completeness to 97% ahead of schedule and passed a pre-inspection QA review.
+4. Sep 2019 – Jan 2020
+
+   ## Professional development and advanced studies
+
+   Career break
+
+   - Data analytics training in R.
+5. Sep 2018 – Aug 2019
+
+   ## Clinical Project Manager
+
+   Smooth Drug Development, contract research organisation
+
+   **Indications:** stroke (Phase III)
+
+   - Overcame a regulatory roadblock in Kazakhstan by sourcing and contracting a local freelance CRA to manage the evolving submission process, which avoided a major study delay.
+6. Jul 2016 – Aug 2018
+
+   ## RWE Study Lead
+
+   AbbVie, biopharmaceuticals
+
+   **Indications:** HIV, rheumatoid arthritis, plaque psoriasis and psoriatic disease (Phase IV, non-interventional and registry studies)
+
+   - Led non-interventional and registry-based studies, including a multi-centre study of transmitted HIV-1 drug resistance in three Russian regions (n = 195, co-authored poster at the 2017 European AIDS Conference) and a registry-based study in psoriatic disease.
+   - Aligned Medical, Biostatistics and Marketing on one data narrative for a large epidemiological study publication, used to present the product’s advantages to government stakeholders.
+   - Turned around an underperforming data-management CRO with a remediation plan and new SLAs. Every interim database milestone was met.
+   - Introduced a vendor-hosted study dashboard and red, yellow and green site-health reviews, which cut start-up by three weeks and late deliverables by 35%.
+7. Sep 2012 – Jul 2016
+
+   ## Clinical Research Associate and Senior CRA
+
+   Quintiles, contract research organisation
+
+   **Indications:** schizophrenia, bipolar disorder, Alzheimer’s and Parkinson’s disease, rheumatoid arthritis, ulcerative colitis, Crohn’s disease, prostate and small cell lung cancer (Phase III); hepatic encephalopathy (Phase II)
+
+   - Site selection, initiation, monitoring and close-out visits, with source data verification.
+   - Promoted to Senior CRA in April 2015.
+
+## Get in touch
+
+[hi@alexander-anikin.eu](mailto:hi@alexander-anikin.eu)
+
+- [LinkedIn](https://www.linkedin.com/in/alxanikin/)
+- [+49 174 494 04 04](tel:+491744940404)
+
+---
+
+<!-- https://alexander-anikin.eu/case-studies.html -->
+
+# Case studies
+
+Three moments when a trial was at risk, and what I did about it.
+
+## Moving site files out of a war zone
+
+IQVIA, 2022. Crisis leadership and business continuity.
+
+### Situation
+
+When the war in Ukraine broke out, several of our sites were in the affected area. The original investigator site files, and with them the integrity of the trial data, were at risk. The sponsor had no emergency archiving vendor in place.
+
+### What I did
+
+1. Raised the risk with the sponsor and proposed a pre-approved, audited archiving provider from IQVIA’s network.
+2. Presented a complete logistics plan, the provider’s capabilities and a cost estimate, and secured formal sponsor approval within 24 hours.
+3. Coordinated the provider and the sites as the situation changed. The files went first to a secure warehouse in Kyiv, then to a long-term secure facility in Poland.
+
+### Result
+
+All essential documents were secured with zero data loss, and the sponsor formally recognised the team for its risk management under extreme conditions.
+
+## Catching an 18% overrun early
+
+IQVIA. Lab-data integrity and financial forecasting.
+
+### Situation
+
+On a global study, monthly actuals tracked the plan. My bottom-up estimate at completion (EAC) told a different story: the study was heading for an 18% budget overrun.
+
+### What I did
+
+1. Ran a variance analysis that isolated the problem to the central lab vendor, where frequent unbudgeted, out-of-scope work was building a large future liability.
+2. Found the root cause: a high rate of haemolysed blood samples, mostly from Eastern European sites. Haemolysis is a pre-analytical artefact that distorts safety labs such as potassium and AST, and every spoiled sample triggered an expensive re-collection.
+3. Worked with the vendor to trace it to centrifugation at the sites and temperature swings in transit, then rolled out targeted site retraining and better-insulated shipping.
+
+### Result
+
+Haemolysis fell to almost zero and the unbudgeted costs stopped. The re-forecast EAC returned to a 3–5% variance, and the study finished under its approved budget.
+
+## First patient in, 3,000 km away
+
+Alexion. Rare disease study start-up.
+
+### Situation
+
+During start-up of a rare disease study we found that none of our selected sites had the diagnostic equipment the protocol required for eligibility. Without it, the study could not run in our country.
+
+### What I did
+
+1. Confirmed the scale of the problem: only one facility in the whole country had the equipment.
+2. Mapped the distances. The facility was thousands of kilometres from our main site, and the first candidate patient lived more than 2,000 km from that site and 3,000 km from the diagnostic centre.
+3. Brought the feasibility, logistics and contracts leads together into one team with a cross-functional plan.
+4. Ran the work in parallel. Contracts drafted agreements with the diagnostic facility in record time while logistics and I planned flights, hotels and ground transport for the patient and their caregiver.
+
+### Result
+
+We screened the first patient, and our country became the first in the world to enrol a patient in the study.
+
+## Frameworks and analyses
+
+- ### PRINCE2 for non-interventional studies
+
+  How to apply PRINCE2 project management to observational and real-world studies.
+
+  [Ask me for the slides](mailto:hi@alexander-anikin.eu?subject=PRINCE2%20for%20non-interventional%20studies)
+- ### Risk-based quality management
+
+  A practical framework for ICH E6(R3): risk assessment, heat maps and quality tolerance limits.
+
+  [Ask me for the slides](mailto:hi@alexander-anikin.eu?subject=Risk-based%20quality%20management)
+- ### The return on an MBA
+
+  A Tableau analysis of the ten-year return on an MBA or a master’s in data science.
+
+  [Ask me for the analysis](mailto:hi@alexander-anikin.eu?subject=The%20return%20on%20an%20MBA)
+
+## Get in touch
+
+[hi@alexander-anikin.eu](mailto:hi@alexander-anikin.eu)
+
+- [LinkedIn](https://www.linkedin.com/in/alxanikin/)
+- [+49 174 494 04 04](tel:+491744940404)
+
+---
+
+<!-- https://alexander-anikin.eu/writing.html -->
+
+# Writing and speaking
+
+> It is often said that regulations are written in blood. Let’s make it the course of our lives to write them in ink.
+
+From MadPharma
+
+Publication
+
+## [MadPharma](https://www.madpharma.de/)
+
+Long-form analyses of drug-safety failures and their regulatory lessons. Each piece reconstructs what went wrong, why the system let it happen, and which rules now stand in the way. The aim is prevention.
+
+Stories so far include the contaminated factor VIII concentrates given to people with haemophilia, and diethylene glycol poisonings from Panama in 2006 to the cough syrup deaths of 2022 and 2023.
+
+Research
+
+## Human–AI decision-making
+
+Two preprints on SSRN, July 2026.
+
+- **The Fallible Collaborator: Reconciling Human Tolerance of AI Errors versus Human Errors in Decision-making Systems.** Why we forgive a human colleague’s mistakes more readily than an AI system’s, and what that means for decision-making systems.
+- **The Inner Game of Hybrid Intelligence: A Mathematical Framework for Overcoming Mirage and Friction in Human-AI Teams.** A formal model of what helps and what hinders teams of people and AI systems.
+
+Clinical research
+
+## Publications
+
+Ladnaya NN, Gusev DA, … Potapov A, Anikin A, Kruglova AI. *Transmitted HIV-1 drug resistance analysis in three administrative regions of the Russian Federation: a multi-centre, cross-sectional epidemiological study.* Poster PE6/15, 16th European AIDS Conference, Milan, 2017.
+
+Newsletter
+
+## Source Verified
+
+My newsletter on LinkedIn. I read the pharma and biotech news sources I trust and pass on what matters, in one edition. [Follow on LinkedIn](https://www.linkedin.com/in/alxanikin/)
+
+Speaking
+
+## Global Clinical Trial Supply Forum 2026
+
+Frankfurt, 21–22 October 2026. Chair of the forum and speaker on “Market Pressures for Cost-Effective and Scalable Clinical Trial Operations”.
+
+## Get in touch
+
+[hi@alexander-anikin.eu](mailto:hi@alexander-anikin.eu)
+
+- [LinkedIn](https://www.linkedin.com/in/alxanikin/)
+- [+49 174 494 04 04](tel:+491744940404)
+
+---
+
+<!-- https://alexander-anikin.eu/impressum.html -->
+
+# Impressum
+
+Legal notice required by German law.
+
+## Angaben gemäß § 5 DDG
+
+Aleksandr Anikin  
+Düsseldorf, Deutschland
+
+## Kontakt
+
+Telefon: [+49 174 494 04 04](tel:+491744940404)  
+E-Mail: [hi@alexander-anikin.eu](mailto:hi@alexander-anikin.eu)
+
+## Verantwortlich für den Inhalt nach § 18 Abs. 2 MStV
+
+Aleksandr Anikin, Düsseldorf
+
+---
+
+<!-- https://alexander-anikin.eu/datenschutz.html -->
+
+# Datenschutzerklärung
+
+Privacy policy. This site sets no cookies and uses no tracking.
+
+## 1. Verantwortlicher
+
+Aleksandr Anikin, Düsseldorf, Deutschland  
+E-Mail: [hi@alexander-anikin.eu](mailto:hi@alexander-anikin.eu)
+
+## 2. Überblick
+
+Diese Website setzt keine Cookies, verwendet keine Analyse- oder Tracking-Werkzeuge und bindet keine Inhalte von Drittanbietern ein. Schriftarten und Bilder werden von dieser Website selbst ausgeliefert.
+
+## 3. Hosting bei GitHub Pages
+
+Diese Website wird bei GitHub Pages gehostet, einem Dienst der GitHub, Inc., 88 Colin P. Kelly Jr. St., San Francisco, CA 94107, USA. Beim Aufruf der Website verarbeitet GitHub technisch notwendige Daten. Dazu gehört Ihre IP-Adresse, die GitHub nach eigenen Angaben aus Sicherheitsgründen protokolliert und speichert.
+
+Rechtsgrundlage ist mein berechtigtes Interesse an einer sicheren und zuverlässigen Bereitstellung dieser Website (Art. 6 Abs. 1 lit. f DSGVO). Dabei können Daten in die USA übermittelt werden. GitHub gibt an, das EU-U.S. Data Privacy Framework einzuhalten und sich zusätzlich auf die Standardvertragsklauseln der EU-Kommission zu stützen. Einzelheiten finden Sie im [GitHub General Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement).
+
+## 4. Kontakt per E-Mail
+
+Wenn Sie mir eine E-Mail schreiben, verarbeite ich Ihre Angaben, um Ihre Anfrage zu beantworten (Art. 6 Abs. 1 lit. b DSGVO, sonst lit. f DSGVO). E-Mails an hi@alexander-anikin.eu werden über den Weiterleitungsdienst ImprovMX an mein Postfach bei Google (Gmail) weitergeleitet. Ich lösche Ihre Nachricht, sobald sie nicht mehr erforderlich ist und keine gesetzlichen Aufbewahrungspflichten entgegenstehen.
+
+## 5. Links zu anderen Websites
+
+Diese Website verlinkt auf andere Angebote, zum Beispiel LinkedIn und Substack. Daten werden an diese Anbieter erst übertragen, wenn Sie einen Link anklicken. Dort gelten die Datenschutzbestimmungen des jeweiligen Anbieters.
+
+## 6. Ihre Rechte
+
+Sie haben das Recht auf Auskunft (Art. 15 DSGVO), Berichtigung (Art. 16 DSGVO), Löschung (Art. 17 DSGVO), Einschränkung der Verarbeitung (Art. 18 DSGVO) und Datenübertragbarkeit (Art. 20 DSGVO). Verarbeitungen auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO können Sie widersprechen (Art. 21 DSGVO).
+
+Außerdem können Sie sich bei einer Datenschutz-Aufsichtsbehörde beschweren (Art. 77 DSGVO), zum Beispiel bei der Landesbeauftragten für Datenschutz und Informationsfreiheit Nordrhein-Westfalen.
+
+Stand: Oktober 2026

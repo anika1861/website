@@ -1,0 +1,7 @@
+# Search engines, AI assistants and AI agents are all welcome here.
+# A short summary written for AI agents: https://alexander-anikin.eu/llms.txt
+
+User-agent: *
+Allow: /
+
+Sitemap: https://alexander-anikin.eu/sitemap.xml
