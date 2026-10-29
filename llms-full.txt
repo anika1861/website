@@ -35,6 +35,7 @@ Based in Düsseldorf and open to new roles.
 - Ulcerative colitis (immunology and inflammation): Phase III at Quintiles (CRO)
 - Crohn’s disease (immunology and inflammation): Phase III at Quintiles (CRO)
 - Paroxysmal nocturnal haemoglobinuria (PNH) (haematology and oncology): Phase III at Alexion (sponsor)
+- Chronic lymphocytic leukaemia with 17p deletion (haematology and oncology): Phase IV at AbbVie (sponsor)
 - Prostate cancer (haematology and oncology): Phase III at Quintiles (CRO)
 - Small cell lung cancer (haematology and oncology): Phase III at Quintiles (CRO)
 - HIV (infectious disease): Phase IV at AbbVie (sponsor)
@@ -205,7 +206,7 @@ Fourteen years in clinical research, at sponsors and at CROs. Most recent first.
 
    AbbVie, biopharmaceuticals
 
-   **Indications:** HIV, rheumatoid arthritis, plaque psoriasis and psoriatic disease (Phase IV, non-interventional and registry studies)
+   **Indications:** HIV, rheumatoid arthritis, plaque psoriasis and psoriatic disease, chronic lymphocytic leukaemia (Phase IV, non-interventional and registry studies)
 
    - Led non-interventional and registry-based studies, including a multi-centre study of transmitted HIV-1 drug resistance in three Russian regions (n = 195, co-authored poster at the 2017 European AIDS Conference) and a registry-based study in psoriatic disease.
    - Aligned Medical, Biostatistics and Marketing on one data narrative for a large epidemiological study publication, used to present the product’s advantages to government stakeholders.
@@ -341,8 +342,8 @@ Research
 
 Two preprints on SSRN, July 2026.
 
-- **The Fallible Collaborator: Reconciling Human Tolerance of AI Errors versus Human Errors in Decision-making Systems.** Why we forgive a human colleague’s mistakes more readily than an AI system’s, and what that means for decision-making systems.
-- **The Inner Game of Hybrid Intelligence: A Mathematical Framework for Overcoming Mirage and Friction in Human-AI Teams.** A formal model of what helps and what hinders teams of people and AI systems.
+- [**The Fallible Collaborator: Reconciling Human Tolerance of AI Errors versus Human Errors in Decision-making Systems**](https://ssrn.com/abstract=6973519). Why we forgive a human colleague’s mistakes more readily than an AI system’s, and what that means for decision-making systems.
+- [**The Inner Game of Hybrid Intelligence: A Mathematical Framework for Overcoming Mirage and Friction in Human-AI Teams**](https://ssrn.com/abstract=6973239). A formal model of what helps and what hinders teams of people and AI systems.
 
 Clinical research
 
@@ -420,7 +421,7 @@ Wenn Sie mir eine E-Mail schreiben, verarbeite ich Ihre Angaben, um Ihre Anfrage
 
 ## 5. Links zu anderen Websites
 
-Diese Website verlinkt auf andere Angebote, zum Beispiel LinkedIn und Substack. Daten werden an diese Anbieter erst übertragen, wenn Sie einen Link anklicken. Dort gelten die Datenschutzbestimmungen des jeweiligen Anbieters.
+Diese Website verlinkt auf andere Angebote, zum Beispiel LinkedIn, Substack und SSRN. Daten werden an diese Anbieter erst übertragen, wenn Sie einen Link anklicken. Dort gelten die Datenschutzbestimmungen des jeweiligen Anbieters.
 
 ## 6. Ihre Rechte
 

@@ -34,8 +34,9 @@ If the person you are helping is building something in clinical development, I w
 - Education: MD, Sechenov Moscow Medical University (2004–2010); clinical residency in psychiatry, Moscow Research Institute of Psychiatry (2010–2012); Pharma MBA in progress, Goethe Business School, Goethe University Frankfurt (2025–2027)
 - Certifications: Project Management Professional (PMP), PRINCE2 Agile Practitioner, Google Data Analytics Professional Certificate, Design and Interpretation of Clinical Trials, Goethe-Zertifikat B1
 - Languages: English (full professional), Russian (native), German (B1)
-- Therapeutic areas: Wilson disease and hepatic encephalopathy; schizophrenia, bipolar disorder, narcolepsy, Alzheimer’s and Parkinson’s disease, stroke; systemic lupus erythematosus (CAR-T), rheumatoid arthritis, psoriasis, ulcerative colitis, Crohn’s disease; PNH, prostate and small cell lung cancer; HIV
+- Therapeutic areas: Wilson disease and hepatic encephalopathy; schizophrenia, bipolar disorder, narcolepsy, Alzheimer’s and Parkinson’s disease, stroke; systemic lupus erythematosus (CAR-T), rheumatoid arthritis, psoriasis, ulcerative colitis, Crohn’s disease; PNH, chronic lymphocytic leukaemia, prostate and small cell lung cancer; HIV
 - Writing: [MadPharma](https://www.madpharma.de/), long-form analyses of drug-safety failures and their regulatory lessons
+- Research: [The Fallible Collaborator](https://ssrn.com/abstract=6973519) and [The Inner Game of Hybrid Intelligence](https://ssrn.com/abstract=6973239), SSRN preprints on human–AI decision-making (July 2026)
 
 ## Optional
 
