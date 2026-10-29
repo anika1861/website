@@ -46,19 +46,25 @@ Phase IV includes non-interventional and registry studies. Quintiles entries are
 
 [All case studies](https://alexander-anikin.eu/case-studies.html)
 
-- ### [Moving site files out of a war zone](https://alexander-anikin.eu/case-studies.html#war-zone)
+- 24 h
 
-  Every original investigator site file in Ukraine secured with zero data loss, after sponsor approval within 24 hours.
+  to formal sponsor approval, with zero data loss
+
+  ### [Moving site files out of a war zone](https://alexander-anikin.eu/case-studies.html#war-zone)
 
   IQVIA, 2022
-- ### [Catching an 18% overrun early](https://alexander-anikin.eu/case-studies.html#overrun)
+- 18%
 
-  Haemolysed samples were distorting safety labs and quietly inflating lab costs. Fixing sample handling saved the data and the budget.
+  projected budget overrun, caught and averted
+
+  ### [Catching a budget overrun early](https://alexander-anikin.eu/case-studies.html#overrun)
 
   IQVIA
-- ### [First patient in, 3,000 km away](https://alexander-anikin.eu/case-studies.html#first-patient)
+- 3,000 km
 
-  One eligible diagnostic facility in the country, thousands of kilometres from the site. Our country enrolled the study’s first patient worldwide.
+  between the first patient and the only eligible diagnostic centre
+
+  ### [The study’s first patient worldwide](https://alexander-anikin.eu/case-studies.html#first-patient)
 
   Alexion
 
@@ -242,6 +248,10 @@ Three moments when a trial was at risk, and what I did about it.
 
 IQVIA, 2022. Crisis leadership and business continuity.
 
+24 h
+
+to formal sponsor approval, with zero data loss
+
 ### Situation
 
 When the war in Ukraine broke out, several of our sites were in the affected area. The original investigator site files, and with them the integrity of the trial data, were at risk. The sponsor had no emergency archiving vendor in place.
@@ -256,9 +266,13 @@ When the war in Ukraine broke out, several of our sites were in the affected are
 
 All essential documents were secured with zero data loss, and the sponsor formally recognised the team for its risk management under extreme conditions.
 
-## Catching an 18% overrun early
+## Catching a budget overrun early
 
 IQVIA. Lab-data integrity and financial forecasting.
+
+18%
+
+projected budget overrun, caught and averted
 
 ### Situation
 
@@ -274,9 +288,13 @@ On a global study, monthly actuals tracked the plan. My bottom-up estimate at co
 
 Haemolysis fell to almost zero and the unbudgeted costs stopped. The re-forecast EAC returned to a 3–5% variance, and the study finished under its approved budget.
 
-## First patient in, 3,000 km away
+## The study’s first patient worldwide
 
 Alexion. Rare disease study start-up.
+
+3,000 km
+
+between the first patient and the only eligible diagnostic centre
 
 ### Situation
 
