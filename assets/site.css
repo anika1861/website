@@ -630,6 +630,24 @@ abbr[title] { text-decoration: none; cursor: help; }
 
 .notfound { padding-block: var(--space-section); display: grid; gap: 1rem; max-width: var(--measure); }
 
+/* Touch screens: standalone links get a thumb-sized (44px) target */
+
+@media (pointer: coarse) {
+  .site-nav a,
+  .footer-inner a,
+  .contact-other a,
+  .hero-email a,
+  .section-head a,
+  .frameworks a {
+    display: inline-flex;
+    align-items: center;
+    min-height: 44px;
+  }
+  .site-nav ul { gap: 0 1.25rem; }
+  .footer-inner { padding-block: 0.75rem; }
+  .btn { min-height: 44px; }
+}
+
 /* Draft-only placeholders (the production build refuses to run while any remain) */
 
 .todo {
